@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TranslateApp</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+    <string name="word">Word</string>
+    <string name="traduction">Traduction</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="fleche">-></string>
+    <string name="Jeu">Game</string>
+    <string name="Params">Settings</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="answer">Answer</string>
+    <string name="next">Next</string>
+    <string name="heure_d_exercice">Exercise time</string>
+    <string name="_2">2</string>
+    <string name="parametres">Settings</string>
+    <string name="nombre_de_notifications">Notifications</string>
+</resources>

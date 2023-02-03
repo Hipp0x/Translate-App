@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TranslateApp</string>
+    <string name="search">Chercher</string>
+    <string name="word">Mot</string>
+    <string name="traduction">Traduction</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Accueil</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="fleche">-></string>
+    <string name="Jeu">Jeu</string>
+    <string name="Params">Params</string>
+    <string name="answer">Réponse</string>
+    <string name="next">Prochain</string>
+    <string name="heure_d_exercice">Heure d\'exercice</string>
+    <string name="nombre_de_notifications">Nombre de\n notifications</string>
+    <string name="parametres">Parametres</string>
+    <string name="_2">2</string>
+
+    <string name="Fr" translatable="false">Francais</string>
+    <string name="Ang" translatable="false">Anglais</string>
+    <string name="Es" translatable="false">Espagnol</string>
+    <string name="Ru" translatable="false">Russe</string>
+    <string name="Jap" translatable="false">Japonais</string>
+    <string name="DS" translatable="false">Allemand</string>
+    <string name="PR" translatable="false">Portugais</string>
+    <string name="In" translatable="false">Indien</string>
+
+    <array name="spinner_entries">
+        <item>Google</item>
+    </array>
+
+    <array name="langSpinner_entries">
+        <item>@string/Fr</item>
+        <item>@string/Ang</item>
+        <item>@string/Es</item>
+        <item>@string/Ru</item>
+        <item>@string/Jap</item>
+        <item>@string/DS</item>
+        <item>@string/PR</item>
+        <item>@string/In</item>
+    </array>
+    <string name="save">Sauvegarder</string>
+
+</resources>
